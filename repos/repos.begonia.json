@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Astera",
-      "repo": "https://github.com/xiaomi-begonia-dev/android_kernel_xiaomi_mt6785",
+      "name": "hysteria",
+      "repo": "https://github.com/Flicker-Android-Devices/kernel_xiaomi_sm8250/",
       "branch": "fifteen",
-      "device": "begonia",
-      "defconfig": "begonia_user_defconfig"
+      "device": "psyche",
+      "defconfig": "psyche_defconfig"
     },
     "withKernelSU": true,
     "withSUSFS": true,
@@ -42,8 +42,8 @@
     "AnyKernel3": {
       "use": true,
       "release": true,
-      "repo": "https://github.com/cvnertnc/AnyKernel3/",
-      "branch": "begonia"
+      "repo": "https://github.com/gh0styo/AnyKernel3/",
+      "branch": "psyche"
     }
   }
 ]
