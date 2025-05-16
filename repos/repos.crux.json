@@ -8,7 +8,7 @@
       "defconfig": "crux_defconfig"
     },
     "withKernelSU": true,
-    "withSUSFS": false,
+    "withSUSFS": true,
     "toolchains": [
       {
         "repo": "https://gitlab.com/PixelOS-Devices/playgroundtc",
